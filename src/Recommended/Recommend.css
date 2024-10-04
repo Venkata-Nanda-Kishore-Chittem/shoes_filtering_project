@@ -1,0 +1,17 @@
+.container {
+  width: 80%;
+}
+
+h4 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+button {
+  outline: none;
+  border: 1.5px solid lightgray;
+  transition: transform 0.2s linear 0s;
+}
+
+button:hover {
+  transform: scale(0.95);
+}
